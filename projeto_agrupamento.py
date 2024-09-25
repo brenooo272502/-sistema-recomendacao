@@ -20,6 +20,7 @@ filmes_assistidos = np.array([
       [0, 0, 1, 1], # usuario 4: assistiu aos filmes 3 e 4
       [1, 0, 1, 0], # usuario 5: assistiu aos filmes 1 e 4
       [0, 1, 0, 1], # usuario 6: assistiu aos filmes 2 e 4
+      [0, 0, 1, 1], # usuario 7: assistiu aos filmes 3 e 4
 ])
 
 # treinar o modelo
